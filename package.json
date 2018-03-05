@@ -37,5 +37,5 @@
     "webpack": "^3.6.0"
   },
   "bugs": "https://github.com/nerdchacha/module-replace-webpack-plugin/issues",
-  "repository": "https://github.com/nerdchacha/module-replace-webpack-plugin.git",
+  "repository": "https://github.com/nerdchacha/module-replace-webpack-plugin.git"
 }
