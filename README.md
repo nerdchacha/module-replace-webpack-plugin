@@ -35,6 +35,7 @@ when  building your application.
 
 ## Version
 This plugin is only tested on webpack version 3.x.
+
 Support for other webpack versions could be taken up in the future.
 
 
