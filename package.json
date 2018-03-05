@@ -1,6 +1,6 @@
 {
   "name": "module-replace-webpack-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Replace or patch any imported file/module using a simple webpack plugin",
   "author": "Yatin Gera <yatin.gera5@gmail.com> (https://github.com/nerdchacha)",
   "main": "dist/index.js",

@@ -57,7 +57,7 @@ module.exports = {
   },
   plugins: [
     new ModuleReplaceWebpackPlugin({
-      module: [{
+      modules: [{
         test: /lodash/,
         require: './src/patchedLodash.js'
       }],
