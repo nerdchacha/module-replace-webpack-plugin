@@ -27,19 +27,17 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "chai": "^4.1.2",
     "cross-env": "^5.1.3",
     "del-cli": "^1.1.0",
-    "eslint": "^4.18.2",
     "eslint-config-webpack": "^1.2.5",
     "eslint-plugin-import": "^2.9.0",
+    "eslint": "^4.18.2",
     "mocha": "^5.0.1",
     "webpack": "^3.6.0"
   },
   "bugs": "https://github.com/nerdchacha/module-replace-webpack-plugin/issues",
-  "repository": "https://github.com/nerdchacha/module-replace-webpack-plugin.git",
-  "dependencies": {
-    "babel-polyfill": "^6.26.0"
-  }
+  "repository": "https://github.com/nerdchacha/module-replace-webpack-plugin.git"
 }
