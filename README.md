@@ -71,7 +71,7 @@ module.exports = {
     new ModuleReplaceWebpackPlugin({
       modules: [{
         test: /lodash/,
-        require: './src/patchedLodash.js'
+        replace: './src/patchedLodash.js'
       }],
       exclude: [/patchedLodash.js$/]
     })
